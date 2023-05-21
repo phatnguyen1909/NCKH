@@ -1,1 +1,2 @@
 https://docs.google.com/spreadsheets/d/195ss_RlH-pFlBrbrPs2EAfEn36y7yGtKam38NXjQaBM/edit?usp=sharing
+vào trang là cơ sơ dữ liệu trên thanh menu vào mục tiện ích mở rộng vào apps script để xem source code
